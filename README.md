@@ -1,1 +1,1 @@
-code of <<The C Programming Language >>
+code of in book "The C Programming Language"
